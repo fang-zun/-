@@ -7,4 +7,5 @@ return true, {
   "mHdFHYalzucEHNR>", --小爱
   "menS(^lCTC?2ozH", --光明呀
   "z^~ab8pg<U$@a,A!1", --光明呀
+  "$fjKvt<*)Amq&YT3", --制冰机
 }
