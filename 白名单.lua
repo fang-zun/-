@@ -8,4 +8,6 @@ return true, {
   "menS(^lCTC?2ozH", --光明呀
   "z^~ab8pg<U$@a,A!1", --光明呀
   "$fjKvt<*)Amq&YT3", --制冰机
+  "A=nux6*>}3o0v%", ---张
+  "$PpL>5u*z4V6?", --张
 }
